@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hey there 👋
 
-<!--
-**matt-FFFFFF/matt-FFFFFF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![](https://img.shields.io/badge/LinkedIn-whitematthew-blue)](https://www.linkedin.com/in/whitematthew/)
+[![](https://img.shields.io/badge/Twitter-matthewwhite-lightblue)](https://twitter.com/matthewwhite)
 
-Here are some ideas to get you started:
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### About
+-  **Working :**  Microsoft Azure Cloud :cloud:
+-  **Learning :** K8s, Go :package: :zap:
+-  **Hobbies :** Home automation with [Home Assistant](https://www.home-assistant.io) :house:
+-  **Ask me about :** Anything!, I'm happy to help :v:
+-  **Pronouns :** he/him :innocent:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![github stats](https://github-readme-stats.vercel.app/api?username=SulthanNK&show_icons=true)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=SulthanNK.SulthanNK) 
