@@ -9,7 +9,7 @@
 -  **Learning :** K8s, Go :package: :zap:
 -  **Hobbies :** Home automation with [Home Assistant](https://www.home-assistant.io) :house:
 -  **Ask me about :** Anything!, I'm happy to help :v:
--  **Pronouns :** he/him :innocent:
+-  **Pronouns :** he/him
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
