@@ -6,7 +6,7 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About
 -  **Working :**  Microsoft Azure Cloud :cloud:
--  **Learning :** K8s, Go :package: :zap:
+-  **Learning :** All the things!
 -  **Hobbies :** Home automation with [Home Assistant](https://www.home-assistant.io) :house:
 -  **Ask me about :** Anything!, I'm happy to help :v:
 -  **Pronouns :** he/him
