@@ -17,4 +17,4 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=matt-FFFFFF.matt-FFFFFF)
 
-![alz](https://alzstatusbadge.azurewebsites.net/api/badge?2=c)
+![alz](https://badge.redpond-5e93ae9c.westeurope.azurecontainerapps.io/api/badge)
