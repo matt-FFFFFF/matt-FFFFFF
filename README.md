@@ -16,3 +16,5 @@
 ![github stats](https://github-readme-stats.vercel.app/api?username=matt-FFFFFF&show_icons=true)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=matt-FFFFFF.matt-FFFFFF)
+
+![alz](https://alzstatusbadge.azurewebsites.net/api/badge)
