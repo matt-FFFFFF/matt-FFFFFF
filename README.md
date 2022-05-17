@@ -1,6 +1,6 @@
 ### Hey there 👋
 
-[![](https://img.shields.io/badge/LinkedIn-matt-ffffff-blue)](https://www.linkedin.com/in/matt-ffffff/)
+[![](https://img.shields.io/badge/LinkedIn-matt--ffffff-blue)](https://www.linkedin.com/in/matt-ffffff/)
 [![](https://img.shields.io/badge/Twitter-matthewwhite-lightblue)](https://twitter.com/matthewwhite)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
