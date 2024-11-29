@@ -5,7 +5,7 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About
--  **Working :**  Microsoft Azure Cloud :cloud:
+-  **Working :**  Microsoft Azure Cloud :cloud:, golang, terraform
 -  **Learning :** All the things!
 -  **Hobbies :** Home automation with [Home Assistant](https://www.home-assistant.io) :house:
 -  **Ask me about :** Anything!, I'm happy to help :v:
@@ -14,6 +14,3 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=matt-FFFFFF&show_icons=true)
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=matt-FFFFFF.matt-FFFFFF)
-
