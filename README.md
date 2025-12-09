@@ -8,6 +8,7 @@
 
 -  :cloud: Microsoft Azure
 -  Platform engineering
+-  DevOps
 -  Terraform / OpenTofu
 
 ### Languages
@@ -28,4 +29,3 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=matt-FFFFFF)
