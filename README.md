@@ -21,6 +21,7 @@
 ### Projects
 
 - [porch](https://github.com/matt-FFFFFF/porch) - a portable command orchestrator with TUI
+- [goarmfunctions](https://github.com/matt-FFFFFF/goarmfunctions) - an implementation of (some) Azure Resource Manager Template functions in Go
 - [alzlib](https://github.com/Azure/alzlib) - the API for Azure Landing Zones management groups and policy deployment
 - [terraform-provider-alz](https://registry.terraform.io/providers/Azure/alz/latest) - Terraform provider for Azure Landing Zones
 - [Azure Verified Modules](aka.ms/avm) - Terraform lead for AVM
