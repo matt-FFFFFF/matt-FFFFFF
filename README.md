@@ -27,6 +27,9 @@
 - [Azure Verified Modules](aka.ms/avm) - Terraform lead for AVM
 - [terratest-terraform-fluent](https://github.com/Azure/terratest-terraform-fluent) - Fluent assertions package for Terratest
 
+- [tfpluginschema](https://github.com/matt-FFFFFF/tfpluginschema) - cli tool and go module to inspect Terraform provider schemas
+- [tfmoduleschema](https://github.com/matt-FFFFFF/tfmoduleschema) - cli tool and go module to inspect Terraform module schemas
+
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
