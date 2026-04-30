@@ -1,4 +1,5 @@
-![header](matt-ffffff-yt-header-darkgrey-cropped.png)
+![Logo](https://raw.githubusercontent.com/matt-FFFFFF/matt-FFFFFF/master/matt-ffffff-yt-header-transparent-dark#gh-light-mode-only)
+![Logo](https://raw.githubusercontent.com/matt-FFFFFF/matt-FFFFFF/master/matt-ffffff-yt-header-transparent-white.png#gh-dark-mode-only)
 
 [![Sponsor matt-FFFFFF](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/matt-FFFFFF)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
