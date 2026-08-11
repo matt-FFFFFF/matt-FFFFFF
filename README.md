@@ -23,7 +23,7 @@
 - [goarmfunctions](https://github.com/matt-FFFFFF/goarmfunctions) - an implementation of (some) Azure Resource Manager Template functions in Go
 - [alzlib](https://github.com/Azure/alzlib) - the API for Azure Landing Zones management groups and policy deployment
 - [terraform-provider-alz](https://registry.terraform.io/providers/Azure/alz/latest) - Terraform provider for Azure Landing Zones
-- [Azure Verified Modules](aka.ms/avm) - Terraform lead for AVM
+- [Azure Verified Modules](aka.ms/avm) - ex-Terraform lead
 - [terratest-terraform-fluent](https://github.com/Azure/terratest-terraform-fluent) - Fluent assertions package for Terratest
 - [tfpluginschema](https://github.com/matt-FFFFFF/tfpluginschema) - cli tool and go module to inspect Terraform provider schemas
 - [tfmoduleschema](https://github.com/matt-FFFFFF/tfmoduleschema) - cli tool and go module to inspect Terraform module schemas
